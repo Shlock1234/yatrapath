@@ -1,0 +1,17 @@
+{
+    "name": "Yatra Path",
+    "short_name": "YatraPath",
+    "description": "AI-powered journey planner — plan your trip between any two places with route map, budget estimates, and smart travel tips.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a1a",
+    "theme_color": "#0a0a1a",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
